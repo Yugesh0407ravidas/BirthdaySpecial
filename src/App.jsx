@@ -43,16 +43,16 @@ const App = () => {
   
  
 
-  const birthdayMessage = `To my favorite person in the world,
+  const birthdayMessage = `  To my favorite person in the world,
 
-Happy Birthday! 🎉
+Happy Birthday! My Love ❤️ 🎉
 
 Every day with you feels like a dream I never want to wake up from. You bring so much light, laughter, and love into my life. 
 
 I hope this day is as beautiful and magical as you are. Here's to more adventures, more inside jokes, and more years of loving you.
 
 Forever yours,
-[Your Name] ❤️`;
+Your baby ❤️`;
 
   // --- AUDIO HANDLER ---
   const togglePlay = () => {
